@@ -13,4 +13,4 @@ huggingface-hub
 langchain-pinecone
 pinecone
 pypdf
-duckduckgo-search
+ddgs
